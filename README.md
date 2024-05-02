@@ -3,7 +3,7 @@
 > Siempre sé agradecido por lo poco que tienes.
 
 # About Me
-My name is Joel Vázquez. I am an enthusiast in Information Technology. 😃
+My name is Joel Vázquez and I am an enthusiast in Information Technology. 😃
 
 ## Interests
 - Personal Development
