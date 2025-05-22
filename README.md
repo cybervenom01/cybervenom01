@@ -1,4 +1,5 @@
 
-"En el día de hoy, dí gracias. Mantén tu frente en alto y sonríe."
+"For our gospel came not unto you in word only, but also in power,
+    and in the Holy Ghost, and in much assurance; as ye know what
+    manner of men we were among you for your sake. 1 Thessalonians 1:5"
 
-# Joel Vázquez Ortiz
