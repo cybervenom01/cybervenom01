@@ -1,8 +1,9 @@
 # Message Of The Day
 
-    "But I have trusted in thy mercy;
-     my heart shall rejoice in thy salvation.
-     Psalm 13:5"
+    "Privacy is something that can keep you secure.
+     Cherish it. Because the less they know about you
+     the less they can use to attack you."
+                                    Joel Vazquez
 
 # About Me
 
